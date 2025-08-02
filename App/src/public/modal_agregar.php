@@ -1,0 +1,44 @@
+<!-- Modal: Agregar Dispositivo -->
+<div id="modalDispositivo" class="fixed inset-0 bg-black bg-opacity-40 hidden items-center justify-center z-50">
+  <div class="bg-white rounded-lg shadow-lg w-full max-w-md p-6">
+    <h2 class="text-xl font-semibold mb-4 text-purple-700">Agregar nuevo dispositivo</h2>
+
+    <form action="../controllers/agregar.php" method="POST" class="space-y-4">
+      <!-- Nombre del dispositivo -->
+      <div>
+        <label for="nombre" class="block text-sm font-medium text-gray-700">Nombre del dispositivo<span class="text-red-500">*</span></label>
+        <input type="text" name="nombre" id="nombre" required class="w-full mt-1 p-2 border rounded focus:ring-2 focus:ring-purple-600">
+      </div>
+
+      <!-- Tipo de dispositivo -->
+      <div>
+        <label for="id_tipo_dispositivo" class="block text-sm font-medium text-gray-700">Tipo de dispositivo<span class="text-red-500">*</span></label>
+        <select name="id_tipo_dispositivo" id="id_tipo_dispositivo" required class="w-full mt-1 p-2 border rounded focus:ring-2 focus:ring-purple-600">
+          <option value="">Seleccione un tipo</option>
+          <option value="1">TV</option>
+          <option value="2">Microondas</option>
+          <option value="3">Lámpara</option>
+          <!-- Puedes llenar estos valores dinámicamente desde PHP o BD -->
+        </select>
+      </div>
+
+      <!-- Ubicación -->
+      <div>
+        <label for="ubicacion" class="block text-sm font-medium text-gray-700">Ubicación (opcional)</label>
+        <input type="text" name="ubicacion" id="ubicacion" class="w-full mt-1 p-2 border rounded focus:ring-2 focus:ring-purple-600">
+      </div>
+
+      <!-- Estado inicial -->
+      <div class="flex items-center space-x-2">
+        <input type="checkbox" name="esta_encendido" id="esta_encendido" class="h-4 w-4 text-purple-600 focus:ring-purple-500 border-gray-300 rounded">
+        <label for="esta_encendido" class="text-sm text-gray-700">Encendido al registrar</label>
+      </div>
+
+      <!-- Botones -->
+      <div class="flex justify-end pt-4">
+        <button type="button" onclick="cerrarModal()" class="mr-2 px-4 py-2 text-sm text-gray-600 hover:text-gray-800">Cancelar</button>
+        <button type="submit" class="bg-purple-700 text-white px-4 py-2 rounded hover:bg-purple-800 text-sm">Guardar</button>
+      </div>
+    </form>
+  </div>
+</div>

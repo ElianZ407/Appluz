@@ -1,0 +1,346 @@
+[2025-07-31 03:12:09] ERROR: Intento de login sin contraseña {"email":"elias@gmail.com"}
+[2025-07-31 03:12:09] INFO: Usuario ya autenticado intentó acceder al login {"user_id":5,"email":"elias@gmail.com"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":"ulisespoke22@gmail.com"}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:53] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:53] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:54] WARNING: Las contraseñas no coinciden en formulario de registro {"email":"ulisespoke22@gmail.com"}
+[2025-07-31 21:03:54] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:54] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:54] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:54] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:54] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:54] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:54] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:54] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:54] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:55] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:55] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:55] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:55] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:55] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:55] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:55] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:55] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:55] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:55] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:55] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:55] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:55] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:55] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:55] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:55] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:55] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:55] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:55] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:55] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:55] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:55] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:55] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:55] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:55] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:55] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:55] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:55] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:55] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:55] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:03:55] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:03:55] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:40] WARNING: Contraseña demasiado corta en registro {"email":"ulisespoke22@gmail.com","password_length":4}
+[2025-07-31 21:15:40] WARNING: Redireccionando con error de registro {"error":"La contraseña debe tener al menos 8 caracteres"}
+[2025-07-31 21:15:40] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:40] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:40] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:40] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:40] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:40] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:40] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:40] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:40] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:40] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:40] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:40] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:40] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:40] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:40] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:40] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:40] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:40] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:40] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:40] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:40] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:40] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:40] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:40] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:40] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:40] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:40] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:40] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:40] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:40] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:40] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:40] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:40] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:40] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:40] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:40] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:41] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:41] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:41] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:41] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:45] WARNING: Contraseña demasiado corta en registro {"email":"ulisespoke22@gmail.com","password_length":4}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"La contraseña debe tener al menos 8 caracteres"}
+[2025-07-31 21:15:45] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:45] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:45] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:45] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:45] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:45] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:45] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:45] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:45] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:45] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:45] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:45] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:45] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:45] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:45] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:45] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:45] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:45] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:45] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:15:45] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:15:45] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:16:57] WARNING: Contraseña demasiado corta en registro {"email":"ulisespoke22@gmail.com","password_length":4}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"La contraseña debe tener al menos 8 caracteres"}
+[2025-07-31 21:16:57] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:16:57] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:16:57] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:16:57] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:16:57] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:16:57] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:16:57] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:16:57] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:16:57] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:16:57] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:16:57] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:16:57] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:16:57] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:16:57] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:16:57] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:16:57] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:16:57] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:16:57] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:16:57] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:16:57] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:16:57] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:04] WARNING: Contraseña demasiado corta en registro {"email":"ulisespoke22@gmail.com","password_length":4}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"La contraseña debe tener al menos 8 caracteres"}
+[2025-07-31 21:18:04] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:04] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:04] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:04] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:04] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:04] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:04] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:04] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:04] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:04] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:04] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:04] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:04] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:04] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:04] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:04] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:04] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:04] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:04] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:04] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:04] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:06] WARNING: Contraseña demasiado corta en registro {"email":"ulisespoke22@gmail.com","password_length":4}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"La contraseña debe tener al menos 8 caracteres"}
+[2025-07-31 21:18:06] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:06] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:06] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:06] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:06] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:06] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:06] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:06] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:06] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:06] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:06] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:06] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:06] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:06] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:06] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:06] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:06] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:06] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:06] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:06] WARNING: Las contraseñas no coinciden en formulario de registro {"email":""}
+[2025-07-31 21:18:06] WARNING: Redireccionando con error de registro {"error":"Las contraseñas no coinciden"}
+[2025-07-31 21:18:45] WARNING: Contraseña demasiado corta en registro {"email":"ulisespoke22@gmail.com","password_length":4}
+[2025-07-31 21:18:59] INFO: Iniciando registro de usuario {"email":"ulisespoke22@gmail.com"}
+[2025-07-31 21:18:59] INFO: Usuario registrado exitosamente {"user_id":1,"email":"ulisespoke22@gmail.com","ip":"::1"}
+[2025-07-31 21:20:50] INFO: Iniciando registro de usuario {"email":"ulisespoke22@gmail.com"}
+[2025-07-31 21:20:50] WARNING: Intento de registro con email existente {"email":"ulisespoke22@gmail.com"}
+[2025-07-31 21:20:50] ERROR: Error en proceso de registro {"email":"ulisespoke22@gmail.com","error":"El email ya está registrado","trace":"#0 C:\\xampp\\htdocs\\Appluz\\App\\src\\controllers\\registro.php(158): registrarUsuario('ulisespoke22@gm...', 'Jose ulises', '12345678')\n#1 {main}"}
+[2025-07-31 21:21:25] INFO: Iniciando registro de usuario {"email":"ulisespoke21@gmail.com"}
+[2025-07-31 21:21:25] INFO: Usuario registrado exitosamente {"user_id":2,"email":"ulisespoke21@gmail.com","ip":"::1"}
+[2025-07-31 21:22:28] INFO: Intento de login iniciado {"email":"ulisespoke22@gmail.com"}
+[2025-07-31 21:22:28] INFO: Login exitoso {"user_id":1,"email":"ulisespoke22@gmail.com","ip":"::1"}
+[2025-07-31 21:23:11] INFO: Iniciando registro de usuario {"email":"Ulises@gmail.com"}
+[2025-07-31 21:23:11] INFO: Usuario registrado exitosamente {"user_id":3,"email":"Ulises@gmail.com","ip":"::1"}
+[2025-07-31 21:25:33] INFO: Iniciando registro de usuario {"email":"Ulises@gmail.com"}
+[2025-07-31 21:25:33] WARNING: Intento de registro con email existente {"email":"Ulises@gmail.com"}
+[2025-07-31 21:25:33] ERROR: Error en proceso de registro {"email":"Ulises@gmail.com","error":"El email ya está registrado","trace":"#0 C:\\xampp\\htdocs\\Appluz\\App\\src\\controllers\\registro.php(161): registrarUsuario('Ulises@gmail.co...', 'Ulises', '12345678')\n#1 {main}"}
+[2025-07-31 21:25:53] INFO: Iniciando registro de usuario {"email":"Ulises@gmail.com"}
+[2025-07-31 21:25:54] INFO: Usuario registrado exitosamente {"user_id":4,"email":"Ulises@gmail.com","ip":"::1"}
+[2025-07-31 21:26:07] INFO: Iniciando registro de usuario {"email":"Ulises@gmail.com"}
+[2025-07-31 21:26:07] WARNING: Intento de registro con email existente {"email":"Ulises@gmail.com"}
+[2025-07-31 21:26:07] ERROR: Error en proceso de registro {"email":"Ulises@gmail.com","error":"El email ya está registrado","trace":"#0 C:\\xampp\\htdocs\\Appluz\\App\\src\\controllers\\registro.php(161): registrarUsuario('Ulises@gmail.co...', 'Ulises', '12345678')\n#1 {main}"}
+[2025-07-31 21:26:28] INFO: Iniciando registro de usuario {"email":"Ulises@gmail.com"}
+[2025-07-31 21:26:29] INFO: Usuario registrado exitosamente {"user_id":5,"email":"Ulises@gmail.com","ip":"::1"}
+[2025-07-31 21:31:49] INFO: Iniciando registro de usuario {"email":"Ulises@gmail.com"}
+[2025-07-31 21:31:50] INFO: Usuario registrado exitosamente {"user_id":6,"email":"Ulises@gmail.com","ip":"::1"}
+[2025-07-31 21:35:49] INFO: Iniciando registro de usuario {"email":"Ulises@gmail.com"}
+[2025-07-31 21:35:49] WARNING: Intento de registro con email existente {"email":"Ulises@gmail.com"}
+[2025-07-31 21:35:49] ERROR: Error en proceso de registro {"email":"Ulises@gmail.com","error":"El email ya está registrado","trace":"#0 C:\\xampp\\htdocs\\Appluz\\App\\src\\controllers\\registro.php(161): registrarUsuario('Ulises@gmail.co...', 'Ulises', '12345678')\n#1 {main}"}
+[2025-07-31 14:11:35] INFO: Inicio de consulta de recordatorios generales 
+[2025-07-31 14:11:35] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-07-31 22:38:28] INFO: Solicitud para agregar dispositivo {"method":"POST","content_type":"application/x-www-form-urlencoded","user_id":1}
+[2025-07-31 14:38:28] INFO: Inicio de registro de dispositivo {"user_id":1,"device_name":"pc","type_id":1}
+[2025-07-31 14:38:28] WARNING: Tipo de dispositivo no existe {"type_id":1}
+[2025-07-31 14:38:28] ERROR: Error en agregarDispositivo {"error":"El tipo de dispositivo seleccionado no existe","trace":"#0 C:\\xampp\\htdocs\\Appluz\\App\\src\\controllers\\agregar.php(192): agregarDispositivo(1, 'pc', 1, 'sala', false)\n#1 {main}"}
+[2025-07-31 14:38:28] ERROR: Redireccionando con error {"error":"El tipo de dispositivo seleccionado no existe"}
+[2025-07-31 22:39:51] INFO: Solicitud para agregar dispositivo {"method":"POST","content_type":"application/x-www-form-urlencoded","user_id":1}
+[2025-07-31 14:39:51] INFO: Inicio de registro de dispositivo {"user_id":1,"device_name":"pc","type_id":1}
+[2025-07-31 14:39:51] WARNING: Tipo de dispositivo no existe {"type_id":1}
+[2025-07-31 14:39:51] ERROR: Error en agregarDispositivo {"error":"El tipo de dispositivo seleccionado no existe","trace":"#0 C:\\xampp\\htdocs\\Appluz\\App\\src\\controllers\\agregar.php(192): agregarDispositivo(1, 'pc', 1, 'sala', true)\n#1 {main}"}
+[2025-07-31 14:39:51] ERROR: Redireccionando con error {"error":"El tipo de dispositivo seleccionado no existe"}
+[2025-07-31 22:43:19] INFO: Solicitud para agregar dispositivo {"method":"POST","content_type":"application/x-www-form-urlencoded","user_id":1}
+[2025-07-31 14:43:19] INFO: Inicio de registro de dispositivo {"user_id":1,"device_name":"pc","type_id":1}
+[2025-07-31 14:43:19] WARNING: Tipo de dispositivo no existe {"type_id":1}
+[2025-07-31 14:43:19] ERROR: Error en agregarDispositivo {"error":"El tipo de dispositivo seleccionado no existe","trace":"#0 C:\\xampp\\htdocs\\Appluz\\App\\src\\controllers\\agregar.php(192): agregarDispositivo(1, 'pc', 1, 'sala', true)\n#1 {main}"}
+[2025-07-31 14:43:19] ERROR: Redireccionando con error {"error":"El tipo de dispositivo seleccionado no existe"}
+[2025-07-31 22:44:16] INFO: Solicitud para agregar dispositivo {"method":"POST","content_type":"application/x-www-form-urlencoded","user_id":1}
+[2025-07-31 14:44:16] INFO: Inicio de registro de dispositivo {"user_id":1,"device_name":"pc","type_id":1}
+[2025-07-31 14:44:16] WARNING: Tipo de dispositivo no existe {"type_id":1}
+[2025-07-31 14:44:16] ERROR: Error en agregarDispositivo {"error":"El tipo de dispositivo seleccionado no existe","trace":"#0 C:\\xampp\\htdocs\\Appluz\\App\\src\\controllers\\agregar.php(192): agregarDispositivo(1, 'pc', 1, 'sala', true)\n#1 {main}"}
+[2025-07-31 14:44:16] ERROR: Redireccionando con error {"error":"El tipo de dispositivo seleccionado no existe"}
+[2025-07-31 22:44:16] WARNING: Método no permitido {"method":"GET"}
