@@ -7,6 +7,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100">
+    
     <nav class="flex justify-between items-center bg-white px-6 py-3 shadow">
         <div class="text-xl">🔆</div>
         <div class="space-x-2">
@@ -15,12 +16,15 @@
     </nav>
 
     <div class="flex items-center justify-center min-h-screen">
+
+ 
+
         <div class="bg-white p-8 rounded-xl shadow-lg w-full max-w-sm">
             <div class="text-center mb-6">
                 <div class="text-4xl">📱</div>
                 <h2 class="mt-2 text-2xl font-bold">Apaga la luz</h2>
             </div>
-            <form method="POST" action="login.php" class="space-y-4">
+            <form method="POST" action="controllers/inicio.php" class="space-y-4">
                 <div>
                     <label class="block text-sm font-medium">Email</label>
                     <input type="email" name="email" class="w-full mt-1 p-2 border rounded focus:outline-none focus:ring-2 focus:ring-gray-700" required>

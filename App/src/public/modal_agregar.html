@@ -3,7 +3,7 @@
   <div class="bg-white rounded-lg shadow-lg w-full max-w-md p-6">
     <h2 class="text-xl font-semibold mb-4 text-purple-700">Agregar nuevo dispositivo</h2>
 
-    <form action="../controllers/agregar.php" method="POST" class="space-y-4">
+   <form action=".controllers/agregar.php" method="POST" class="space-y-4">
       <!-- Nombre del dispositivo -->
       <div>
         <label for="nombre" class="block text-sm font-medium text-gray-700">Nombre del dispositivo<span class="text-red-500">*</span></label>
@@ -15,9 +15,10 @@
         <label for="id_tipo_dispositivo" class="block text-sm font-medium text-gray-700">Tipo de dispositivo<span class="text-red-500">*</span></label>
         <select name="id_tipo_dispositivo" id="id_tipo_dispositivo" required class="w-full mt-1 p-2 border rounded focus:ring-2 focus:ring-purple-600">
           <option value="">Seleccione un tipo</option>
-          <option value="1">TV</option>
-          <option value="2">Microondas</option>
-          <option value="3">Lámpara</option>
+          <option value="1">Lampara</option>
+          <option value="2">Clima</option>
+          <option value="3">Tv</option>
+          <option value="4">Computadora</option>
           <!-- Puedes llenar estos valores dinámicamente desde PHP o BD -->
         </select>
       </div>

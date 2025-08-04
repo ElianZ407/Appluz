@@ -1,85 +1,61 @@
 <?php
 require_once __DIR__ . '/conexion.php';
-require_once __DIR__ . '/logger.php'; // Asegúrate de tener esta clase
+require_once __DIR__ . '/logger.php';
 
-// Configuración inicial
 date_default_timezone_set('America/Mexico_City');
 
-/**
- * Función para mostrar recordatorios según la hora actual
- * @param int $usuario_id ID del usuario
- * @return array Lista de recordatorios activos que coinciden con la hora actual o están próximos
- */
-function mostrarRecordatorios($usuario_id) {
-    // Validación básica con log
-    if (empty($usuario_id)) {
-        Logger::error('Intento de mostrar recordatorios sin ID de usuario', [
-            'ip' => $_SERVER['REMOTE_ADDR'] ?? 'desconocida',
-            'user_agent' => $_SERVER['HTTP_USER_AGENT'] ?? 'desconocido'
-        ]);
-        throw new Exception('ID de usuario requerido');
-    }
-
+function mostrarRecordatorios() {
     $conexion = conectarDB();
     $stmt = null;
-    
-    try {
-        Logger::info("Inicio de consulta de recordatorios", [
-            'user_id' => $usuario_id,
-            'action' => 'mostrar_recordatorios'
-        ]);
 
-        // Configurar zona horaria para MySQL
+    try {
+        Logger::info("Inicio de consulta de recordatorios generales");
+
         $offset = (new DateTime())->format('P');
         $conexion->query("SET time_zone = '$offset'");
 
-        // Obtener hora actual en formato HH:MM
         $hora_actual = (new DateTime())->format('H:i');
         Logger::debug("Hora actual del sistema", ['hora_actual' => $hora_actual]);
-        
-        // Consulta para obtener recordatorios activos del usuario
+
         $sql = "SELECT r.id_recordatorio, r.dispositivo_id, r.hora, r.mensaje, 
-                       d.nombre as nombre_dispositivo
+                       d.nombre AS nombre_dispositivo, d.ubicacion
                 FROM recordatorios r
                 JOIN dispositivos d ON r.dispositivo_id = d.id_dispositivo
-                WHERE d.usuario_id = ? 
-                AND r.activo = 1
+                WHERE r.activo = 1
                 AND r.hora <= ?
                 ORDER BY r.hora DESC";
-        
+
         $stmt = $conexion->prepare($sql);
-        
         if (!$stmt) {
             Logger::error('Error al preparar consulta de recordatorios', [
                 'error' => $conexion->error,
-                'sql' => $sql,
-                'user_id' => $usuario_id
+                'sql' => $sql
             ]);
             throw new Exception('Error al preparar la consulta: ' . $conexion->error);
         }
 
-        $stmt->bind_param("is", $usuario_id, $hora_actual);
-        
+        $stmt->bind_param("s", $hora_actual);
+
         if (!$stmt->execute()) {
             Logger::error('Error al ejecutar consulta de recordatorios', [
-                'error' => $stmt->error,
-                'user_id' => $usuario_id
+                'error' => $stmt->error
             ]);
             throw new Exception('Error al ejecutar la consulta: ' . $stmt->error);
         }
-        
+
         $result = $stmt->get_result();
         $recordatorios = [];
         $total_coinciden = 0;
-        
+
         while ($row = $result->fetch_assoc()) {
             $estado = ($row['hora'] == $hora_actual) ? 'coincide' : 'pendiente';
             if ($estado == 'coincide') $total_coinciden++;
-            
+
             $recordatorios[] = [
                 'id' => $row['id_recordatorio'],
                 'dispositivo_id' => $row['dispositivo_id'],
-                'dispositivo' => $row['nombre_dispositivo'],
+                'nombre_dispositivo' => $row['nombre_dispositivo'],  // aquí envío nombre
+                'ubicacion' => $row['ubicacion'],                   // envío también ubicación
                 'hora' => $row['hora'],
                 'mensaje' => $row['mensaje'],
                 'hora_actual' => $hora_actual,
@@ -88,7 +64,6 @@ function mostrarRecordatorios($usuario_id) {
         }
 
         Logger::info("Consulta de recordatorios exitosa", [
-            'user_id' => $usuario_id,
             'total_recordatorios' => count($recordatorios),
             'total_coinciden' => $total_coinciden
         ]);
@@ -103,7 +78,6 @@ function mostrarRecordatorios($usuario_id) {
 
     } catch (Exception $e) {
         Logger::error("Error en mostrarRecordatorios", [
-            'user_id' => $usuario_id,
             'error' => $e->getMessage(),
             'trace' => $e->getTraceAsString()
         ]);
@@ -116,46 +90,32 @@ function mostrarRecordatorios($usuario_id) {
 
 // Manejo de la solicitud
 try {
-    if (session_status() === PHP_SESSION_NONE) {
-        session_start();
-    }
-
-    Logger::debug("Solicitud de recordatorios recibida", [
+    Logger::debug("Solicitud de recordatorios generales recibida", [
         'method' => $_SERVER['REQUEST_METHOD'] ?? 'desconocido',
-        'session_id' => session_id(),
         'ip' => $_SERVER['REMOTE_ADDR'] ?? 'desconocida'
     ]);
 
-    if (!isset($_SESSION['user_id'])) {
-        Logger::warning('Intento de acceso no autorizado a recordatorios', [
-            'session_data' => $_SESSION
-        ]);
-        throw new Exception('Usuario no autenticado');
-    }
+    $resultado = mostrarRecordatorios();
 
-    $resultado = mostrarRecordatorios($_SESSION['user_id']);
-    
-    // Para API JSON
     header('Content-Type: application/json');
     echo json_encode($resultado);
-    
+
     Logger::debug("Respuesta enviada al cliente", [
-        'user_id' => $_SESSION['user_id'],
         'total_recordatorios' => $resultado['total']
     ]);
 
 } catch (Exception $e) {
     http_response_code(400);
-    
+
     $response = [
         'success' => false,
         'message' => $e->getMessage()
     ];
-    
+
     Logger::error("Error en la solicitud de recordatorios", [
         'error' => $e->getMessage(),
         'response' => $response
     ]);
-    
+
     echo json_encode($response);
 }

@@ -23,26 +23,25 @@ function registrarRecordatorio($dispositivo_id, $hora, $mensaje, $activo = true)
     $stmt = null;
     
     try {
-       
         $offset = (new DateTime())->format('P');
         $conexion->query("SET time_zone = '$offset'");
         
-        
+        // Verifica que el dispositivo pertenezca al usuario actual
         $sql_check = "SELECT id_dispositivo FROM dispositivos 
-                     WHERE id_dispositivo = ? AND usuario_id = ?";
+                      WHERE id_dispositivo = ? AND usuario_id = ?";
         $stmt_check = $conexion->prepare($sql_check);
         
         if (!$stmt_check) throw new Exception('Error al verificar dispositivo: ' . $conexion->error);
 
-        $stmt_check->bind_param("ii", $dispositivo_id, $_SESSION['user_id']);
+        $stmt_check->bind_param("ii", $dispositivo_id, $_SESSION['usuario_id']);
         $stmt_check->execute();
         $stmt_check->store_result();
         
         if ($stmt_check->num_rows === 0) {
             throw new Exception('Dispositivo no encontrado o no pertenece al usuario');
         }
-        
-        
+
+        // Inserta el recordatorio
         $sql = "INSERT INTO recordatorios (dispositivo_id, hora, mensaje, activo) 
                 VALUES (?, ?, ?, ?)";
         $stmt = $conexion->prepare($sql);
@@ -63,15 +62,14 @@ function registrarRecordatorio($dispositivo_id, $hora, $mensaje, $activo = true)
         ];
 
     } finally {
-        
         if ($stmt_check !== null && is_object($stmt_check)) $stmt_check->close();
         if ($stmt !== null && is_object($stmt)) $stmt->close();
         if ($conexion !== null) $conexion->close();
     }
 }
 
-
-if (!isset($_SESSION['logged_in']) || !$_SESSION['logged_in']) {
+// Verificación de sesión
+if (!isset($_SESSION['usuario_id'])) {
     http_response_code(401);
     echo json_encode(['success' => false, 'message' => 'No autorizado']);
     exit();
@@ -102,7 +100,7 @@ try {
             echo json_encode($resultado);
         } else {
             $_SESSION['success_message'] = $resultado['message'];
-            header('Location: recordatorios.php');
+            header('Location: /Appluz/App/src/public/home.php');
         }
         exit();
     }

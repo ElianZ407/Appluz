@@ -1,0 +1,98 @@
+<?php
+require_once __DIR__ . '/conexion.php';
+require_once __DIR__ . '/logger.php';
+
+
+header('Content-Type: application/json');
+
+try {
+    $input = json_decode(file_get_contents('php://input'), true);
+    $recordatorio_id = $input['recordatorio_id'] ?? null;
+    $dispositivo_id = $input['dispositivo_id'] ?? null;
+
+    if (!$recordatorio_id || !$dispositivo_id) {
+        throw new Exception("Datos incompletos");
+    }
+
+    $conexion = conectarDB();
+    $conexion->begin_transaction();
+
+    // 1. Obtener fecha de encendido, usuario y watts del dispositivo
+    $sql_info = "
+        SELECT d.encendido, d.usuario_id, td.w 
+        FROM dispositivos d
+        JOIN tipo_dispositivo td ON d.tipo_dispositivo_id = td.id_tipo_dispositivo
+        WHERE d.id_dispositivo = ?";
+    $stmt_info = $conexion->prepare($sql_info);
+    $stmt_info->bind_param("i", $dispositivo_id);
+    $stmt_info->execute();
+    $stmt_info->bind_result($encendido, $usuario_id, $watts);
+    if (!$stmt_info->fetch()) throw new Exception("Dispositivo no encontrado");
+    $stmt_info->close();
+
+    // 2. Apagar el dispositivo (NOW() se usará como tiempo final)
+    $sql1 = "UPDATE dispositivos SET apagado = NOW() WHERE id_dispositivo = ?";
+    $stmt1 = $conexion->prepare($sql1);
+    $stmt1->bind_param("i", $dispositivo_id);
+    if (!$stmt1->execute()) throw new Exception("Error al apagar dispositivo");
+
+    // 3. Calcular duración de encendido en segundos
+    $sql_duracion = "SELECT TIMESTAMPDIFF(SECOND, ?, NOW()) AS duracion_segundos";
+    $stmt_duracion = $conexion->prepare($sql_duracion);
+    $stmt_duracion->bind_param("s", $encendido);
+    $stmt_duracion->execute();
+    $stmt_duracion->bind_result($duracion_segundos);
+    $stmt_duracion->fetch();
+    $stmt_duracion->close();
+
+    $horas = $duracion_segundos / 3600;
+    $kwh = round(($watts / 1000) * $horas, 4); // Redondeo a 4 decimales
+    $costo_kwh = 2.5; // Tarifa estimada por kWh
+    $gasto = round($kwh * $costo_kwh, 2);
+
+    $fecha = date('Y-m-d');
+    $mes = date('n');
+    $anio = date('Y');
+
+    // 4. Obtener cantidad de dispositivos aún activos (sin fecha de apagado)
+    $sql_activos = "SELECT COUNT(*) FROM dispositivos WHERE usuario_id = ? AND apagado IS NULL";
+    $stmt_activos = $conexion->prepare($sql_activos);
+    $stmt_activos->bind_param("i", $usuario_id);
+    $stmt_activos->execute();
+    $stmt_activos->bind_result($dispositivos_activos);
+    $stmt_activos->fetch();
+    $stmt_activos->close();
+
+    // 5. Insertar métrica
+    $sql_metrica = "
+        INSERT INTO metricas_ahorro (usuario_id, fecha, kwh_usados, gasto_estimado, dispositivos_activos, mes, año)
+        VALUES (?, ?, ?, ?, ?, ?, ?)";
+    $stmt_metrica = $conexion->prepare($sql_metrica);
+    $stmt_metrica->bind_param("issdiii", $usuario_id, $fecha, $kwh, $gasto, $dispositivos_activos, $mes, $anio);
+    if (!$stmt_metrica->execute()) throw new Exception("Error al insertar en métricas");
+
+    // 6. Desactivar el recordatorio
+    $sql2 = "UPDATE recordatorios SET activo = 0 WHERE id_recordatorio = ?";
+    $stmt2 = $conexion->prepare($sql2);
+    $stmt2->bind_param("i", $recordatorio_id);
+    if (!$stmt2->execute()) throw new Exception("Error al desactivar recordatorio");
+
+    // 7. Confirmar transacción
+    $conexion->commit();
+
+    Logger::info("Dispositivo apagado y métrica guardada", [
+        'recordatorio_id' => $recordatorio_id,
+        'dispositivo_id' => $dispositivo_id,
+        'usuario_id' => $usuario_id,
+        'kwh_usados' => $kwh,
+        'gasto_estimado' => $gasto
+    ]);
+
+    echo json_encode(['success' => true]);
+
+} catch (Exception $e) {
+    if (isset($conexion)) $conexion->rollback();
+    Logger::error("Error en apagado y métrica", ['error' => $e->getMessage()]);
+    echo json_encode(['success' => false, 'message' => $e->getMessage()]);
+}
+?>

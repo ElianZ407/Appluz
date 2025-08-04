@@ -1,0 +1,119 @@
+[2025-08-04 01:51:09] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-04 01:51:09] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-04 01:51:09] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(125): loginUser('aburto@gmail.co...', '1345678')\n#1 {main}"}
+[2025-08-04 01:51:09] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-04 01:51:31] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-04 01:51:31] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-04 01:58:23] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-04 01:58:23] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-04 02:55:10] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-04 02:55:10] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-04 02:57:06] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-04 02:57:06] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-04 03:55:52] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-04 03:55:52] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-04 03:57:01] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-04 03:57:01] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"127.0.0.1"}
+[2025-08-04 03:59:37] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-04 03:59:37] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-04 04:01:49] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-04 04:01:49] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-04 05:31:52] ERROR: Error al apagar dispositivo/recordatorio {"error":"Datos incompletos"}
+[2025-08-04 05:31:58] ERROR: Error al apagar dispositivo/recordatorio {"error":"Datos incompletos"}
+[2025-08-04 05:43:00] INFO: Dispositivo apagado y recordatorio desactivado {"recordatorio_id":8,"dispositivo_id":23}
+[2025-08-04 07:27:15] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-04 07:27:15] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-04 07:53:37] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-04 07:53:37] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-04 08:33:56] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-04 08:33:56] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-04 00:53:20] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 00:53:20] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 00:54:52] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 00:54:52] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 01:09:37] INFO: Inicio de registro de dispositivo {"user_id":8,"device_name":"TV","type_id":1}
+[2025-08-04 01:09:37] INFO: Dispositivo registrado {"device_id":25}
+[2025-08-04 01:09:40] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:09:40] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 01:09:59] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:09:59] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 01:12:33] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:12:33] INFO: Consulta de recordatorios exitosa {"total_recordatorios":1,"total_coinciden":0}
+[2025-08-04 01:13:51] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:13:51] INFO: Consulta de recordatorios exitosa {"total_recordatorios":1,"total_coinciden":0}
+[2025-08-04 01:15:33] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:15:33] INFO: Consulta de recordatorios exitosa {"total_recordatorios":1,"total_coinciden":0}
+[2025-08-04 01:16:50] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:16:50] INFO: Consulta de recordatorios exitosa {"total_recordatorios":1,"total_coinciden":0}
+[2025-08-04 09:16:52] INFO: Dispositivo apagado y recordatorio desactivado {"recordatorio_id":9,"dispositivo_id":25}
+[2025-08-04 01:16:53] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:16:53] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 01:18:22] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:18:22] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 01:18:36] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:18:36] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 01:19:22] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:19:22] INFO: Consulta de recordatorios exitosa {"total_recordatorios":1,"total_coinciden":0}
+[2025-08-04 09:19:25] INFO: Dispositivo apagado y métrica registrada {"recordatorio_id":10,"dispositivo_id":25,"usuario_id":8,"kwh_usados":0.06530666666666668,"gasto_estimado":0.07}
+[2025-08-04 01:19:27] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:19:27] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 01:33:03] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:33:03] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 01:33:06] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:33:06] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 01:33:17] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:33:17] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 01:36:46] INFO: Inicio de registro de dispositivo {"user_id":8,"device_name":"Computdora","type_id":4}
+[2025-08-04 01:36:46] INFO: Dispositivo registrado {"device_id":26}
+[2025-08-04 01:38:14] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:38:14] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 01:38:17] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:38:17] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 01:38:30] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:38:30] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 01:39:26] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:39:26] INFO: Consulta de recordatorios exitosa {"total_recordatorios":1,"total_coinciden":0}
+[2025-08-04 09:39:29] INFO: Dispositivo apagado y métrica registrada {"recordatorio_id":12,"dispositivo_id":26,"usuario_id":8,"kwh_usados":3.2863333333333333,"gasto_estimado":3.29}
+[2025-08-04 01:39:30] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:39:30] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 01:52:02] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:52:02] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 01:52:04] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:52:04] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 01:53:10] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:53:10] INFO: Consulta de recordatorios exitosa {"total_recordatorios":1,"total_coinciden":0}
+[2025-08-04 09:53:12] INFO: Dispositivo apagado y métrica registrada {"recordatorio_id":13,"dispositivo_id":26,"usuario_id":8,"kwh_usados":3.21775,"gasto_estimado":11.26}
+[2025-08-04 01:53:13] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 01:53:13] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 22:19:31] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-04 22:19:31] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-04 14:19:40] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 14:19:40] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 14:28:42] INFO: Inicio de registro de dispositivo {"user_id":null,"device_name":"Pc","type_id":4}
+[2025-08-04 14:28:42] ERROR: Faltan campos requeridos 
+[2025-08-04 22:31:03] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-04 22:31:03] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-04 14:31:12] INFO: Inicio de registro de dispositivo {"usuario_id":8,"nombre":"wdad","tipo":1}
+[2025-08-04 14:31:12] INFO: Dispositivo registrado {"dispositivo_id":0}
+[2025-08-04 14:31:23] INFO: Inicio de registro de dispositivo {"usuario_id":8,"nombre":"zdeffsf","tipo":3}
+[2025-08-04 14:31:23] INFO: Dispositivo registrado {"dispositivo_id":27}
+[2025-08-04 14:33:08] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 14:33:08] INFO: Consulta de recordatorios exitosa {"total_recordatorios":1,"total_coinciden":0}
+[2025-08-04 14:33:20] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 14:33:20] INFO: Consulta de recordatorios exitosa {"total_recordatorios":1,"total_coinciden":0}
+[2025-08-04 14:33:52] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 14:33:52] INFO: Consulta de recordatorios exitosa {"total_recordatorios":1,"total_coinciden":0}
+[2025-08-04 22:33:55] INFO: Dispositivo apagado y métrica registrada {"recordatorio_id":14,"dispositivo_id":26,"usuario_id":8,"kwh_usados":0.58575,"gasto_estimado":2.05}
+[2025-08-04 14:33:56] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 14:33:56] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 23:28:08] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-04 23:28:08] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-04 15:28:37] INFO: Inicio de registro de dispositivo {"usuario_id":8,"nombre":"Lampara 3","tipo":3}
+[2025-08-04 15:28:37] INFO: Dispositivo registrado {"dispositivo_id":28}
+[2025-08-04 15:29:39] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 15:29:39] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-04 15:30:07] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 15:30:07] INFO: Consulta de recordatorios exitosa {"total_recordatorios":1,"total_coinciden":0}
+[2025-08-04 23:30:21] INFO: Dispositivo apagado y métrica registrada {"recordatorio_id":15,"dispositivo_id":28,"usuario_id":8,"kwh_usados":1.605777777777778,"gasto_estimado":5.62}
+[2025-08-04 15:30:23] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-04 15:30:23] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}

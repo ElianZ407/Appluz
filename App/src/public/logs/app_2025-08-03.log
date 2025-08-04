@@ -1,0 +1,80 @@
+[2025-08-03 23:28:47] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-03 23:28:47] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-03 23:29:45] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-03 23:29:45] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-03 23:29:51] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-03 23:29:51] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-03 23:29:51] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(125): loginUser('aburto@gmail.co...', '12345678thfhtf')\n#1 {main}"}
+[2025-08-03 23:29:51] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-03 23:30:01] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-03 23:30:01] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-03 18:58:22] INFO: Inicio de registro de dispositivo {"user_id":8,"device_name":"Lampara","type_id":1}
+[2025-08-03 18:58:22] INFO: Dispositivo registrado {"device_id":11}
+[2025-08-03 18:58:44] INFO: Inicio de registro de dispositivo {"user_id":8,"device_name":"Lampara","type_id":1}
+[2025-08-03 18:58:44] INFO: Dispositivo registrado {"device_id":12}
+[2025-08-03 19:00:01] INFO: Inicio de registro de dispositivo {"user_id":8,"device_name":"dwdd","type_id":1}
+[2025-08-03 19:00:01] INFO: Dispositivo registrado {"device_id":13}
+[2025-08-03 19:00:30] INFO: Inicio de registro de dispositivo {"user_id":8,"device_name":"dwdd","type_id":1}
+[2025-08-03 19:00:30] INFO: Dispositivo registrado {"device_id":14}
+[2025-08-03 19:01:55] INFO: Inicio de registro de dispositivo {"user_id":8,"device_name":"Lampara","type_id":3}
+[2025-08-03 19:01:56] INFO: Dispositivo registrado {"device_id":0}
+[2025-08-03 19:02:37] INFO: Inicio de registro de dispositivo {"user_id":8,"device_name":"Lampara","type_id":3}
+[2025-08-03 19:02:37] INFO: Dispositivo registrado {"device_id":15}
+[2025-08-03 19:05:01] INFO: Inicio de registro de dispositivo {"user_id":8,"device_name":"Lampara","type_id":3}
+[2025-08-03 19:05:01] INFO: Dispositivo registrado {"device_id":16}
+[2025-08-03 19:08:10] INFO: Inicio de registro de dispositivo {"user_id":8,"device_name":"Axel","type_id":1}
+[2025-08-03 19:08:10] INFO: Dispositivo registrado {"device_id":0}
+[2025-08-03 19:10:31] INFO: Inicio de registro de dispositivo {"user_id":8,"device_name":"Axel","type_id":1}
+[2025-08-03 19:10:31] INFO: Dispositivo registrado {"device_id":0}
+[2025-08-03 19:10:33] INFO: Inicio de registro de dispositivo {"user_id":8,"device_name":"Axel","type_id":1}
+[2025-08-03 19:10:33] INFO: Dispositivo registrado {"device_id":17}
+[2025-08-03 19:12:19] INFO: Inicio de registro de dispositivo {"user_id":8,"device_name":"Axel","type_id":1}
+[2025-08-03 19:12:19] INFO: Dispositivo registrado {"device_id":18}
+[2025-08-03 19:12:31] INFO: Inicio de registro de dispositivo {"user_id":8,"device_name":"Axel","type_id":2}
+[2025-08-03 19:12:31] INFO: Dispositivo registrado {"device_id":19}
+[2025-08-03 19:16:29] INFO: Inicio de registro de dispositivo {"user_id":8,"device_name":"dad","type_id":2}
+[2025-08-03 19:16:29] INFO: Dispositivo registrado {"device_id":20}
+[2025-08-03 19:18:27] INFO: Inicio de registro de dispositivo {"user_id":8,"device_name":"dw","type_id":3}
+[2025-08-03 19:18:27] INFO: Dispositivo registrado {"device_id":21}
+[2025-08-03 19:18:35] INFO: Inicio de registro de dispositivo {"user_id":8,"device_name":"karen","type_id":3}
+[2025-08-03 19:18:35] INFO: Dispositivo registrado {"device_id":22}
+[2025-08-03 19:43:58] INFO: Inicio de registro de dispositivo {"user_id":8,"device_name":"Lampara","type_id":3}
+[2025-08-03 19:43:58] INFO: Dispositivo registrado {"device_id":23}
+[2025-08-03 19:44:28] INFO: Inicio de registro de dispositivo {"user_id":8,"device_name":"Lampara","type_id":3}
+[2025-08-03 19:44:28] INFO: Dispositivo registrado {"device_id":0}
+[2025-08-03 20:44:23] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-03 20:44:23] INFO: Consulta de recordatorios exitosa {"total_recordatorios":2,"total_coinciden":0}
+[2025-08-03 20:44:56] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-03 20:44:56] INFO: Consulta de recordatorios exitosa {"total_recordatorios":2,"total_coinciden":0}
+[2025-08-03 20:52:53] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-03 20:52:53] INFO: Consulta de recordatorios exitosa {"total_recordatorios":2,"total_coinciden":0}
+[2025-08-03 20:54:37] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-03 20:54:37] INFO: Consulta de recordatorios exitosa {"total_recordatorios":2,"total_coinciden":0}
+[2025-08-03 20:56:36] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-03 20:56:36] INFO: Consulta de recordatorios exitosa {"total_recordatorios":2,"total_coinciden":0}
+[2025-08-03 20:57:11] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-03 20:57:11] INFO: Consulta de recordatorios exitosa {"total_recordatorios":1,"total_coinciden":0}
+[2025-08-03 21:00:03] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-03 21:00:03] INFO: Consulta de recordatorios exitosa {"total_recordatorios":1,"total_coinciden":0}
+[2025-08-03 21:29:14] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-03 21:29:14] INFO: Consulta de recordatorios exitosa {"total_recordatorios":1,"total_coinciden":0}
+[2025-08-03 21:29:17] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-03 21:29:17] INFO: Consulta de recordatorios exitosa {"total_recordatorios":1,"total_coinciden":0}
+[2025-08-03 21:29:28] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-03 21:29:28] INFO: Consulta de recordatorios exitosa {"total_recordatorios":1,"total_coinciden":0}
+[2025-08-03 21:29:34] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-03 21:29:34] INFO: Consulta de recordatorios exitosa {"total_recordatorios":1,"total_coinciden":0}
+[2025-08-03 21:31:50] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-03 21:31:50] INFO: Consulta de recordatorios exitosa {"total_recordatorios":1,"total_coinciden":0}
+[2025-08-03 21:42:58] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-03 21:42:58] INFO: Consulta de recordatorios exitosa {"total_recordatorios":1,"total_coinciden":0}
+[2025-08-03 21:43:01] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-03 21:43:01] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-03 21:43:09] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-03 21:43:09] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-03 21:43:13] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-03 21:43:13] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-03 21:51:01] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-03 21:51:01] INFO: Consulta de recordatorios exitosa {"total_recordatorios":0,"total_coinciden":0}
+[2025-08-03 23:53:40] INFO: Inicio de consulta de recordatorios generales 
+[2025-08-03 23:53:40] INFO: Consulta de recordatorios exitosa {"total_recordatorios":1,"total_coinciden":0}
