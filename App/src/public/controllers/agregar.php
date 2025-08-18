@@ -109,6 +109,6 @@ try {
     }
 } catch (Exception $e) {
     $_SESSION['error_message'] = $e->getMessage();
-    header('Location: /Appluz/App/src/public/home.html');
+    header('Location: /Appluz/App/src/public/home.php');
     exit();
 }

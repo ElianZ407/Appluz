@@ -1,0 +1,394 @@
+[2025-08-16 20:27:46] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-16 20:27:47] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"127.0.0.1"}
+[2025-08-16 20:28:27] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:28:45] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:28:45] WARNING: Email inválido proporcionado {"email":"prueba,\")...),,'"}
+[2025-08-16 20:28:45] WARNING: Email inválido proporcionado {"email":"prueba'obSzmM<'\">tkycZf"}
+[2025-08-16 20:28:45] WARNING: Email inválido proporcionado {"email":"prueba') AND 4185=4758 AND ('tKov'='tKov"}
+[2025-08-16 20:28:45] WARNING: Email inválido proporcionado {"email":"prueba' AND 2097=6475 AND 'BBNz'='BBNz"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba) AND 7731=9142 AND (5399=5399"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba AND 8285=5173"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba AND 6693=1475-- DiBM"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"(SELECT (CASE WHEN (6045=8537) THEN 'prueba' ELSE (SELECT 8537 UNION SELECT 6652) END))"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba') AND EXTRACTVALUE(3877,CONCAT(0x5c,0x716b626a71,(SELECT (ELT(3877=3877,1))),0x717a787a71)) AND ('qjFU'='qjFU"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba' AND EXTRACTVALUE(3877,CONCAT(0x5c,0x716b626a71,(SELECT (ELT(3877=3877,1))),0x717a787a71)) AND 'Qkgf'='Qkgf"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba) AND EXTRACTVALUE(3877,CONCAT(0x5c,0x716b626a71,(SELECT (ELT(3877=3877,1))),0x717a787a71)) AND (5077=5077"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba AND EXTRACTVALUE(3877,CONCAT(0x5c,0x716b626a71,(SELECT (ELT(3877=3877,1))),0x717a787a71))"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba AND EXTRACTVALUE(3877,CONCAT(0x5c,0x716b626a71,(SELECT (ELT(3877=3877,1))),0x717a787a71))-- TrPW"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba') AND 4190=CAST((CHR(113)||CHR(107)||CHR(98)||CHR(106)||CHR(113))||(SELECT (CASE WHEN (4190=4190) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(122)||CHR(120)||CHR(122)||CHR(113)) AS NUMERIC) AND ('nGJm'='nGJm"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba' AND 4190=CAST((CHR(113)||CHR(107)||CHR(98)||CHR(106)||CHR(113))||(SELECT (CASE WHEN (4190=4190) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(122)||CHR(120)||CHR(122)||CHR(113)) AS NUMERIC) AND 'NPFQ'='NPFQ"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba) AND 4190=CAST((CHR(113)||CHR(107)||CHR(98)||CHR(106)||CHR(113))||(SELECT (CASE WHEN (4190=4190) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(122)||CHR(120)||CHR(122)||CHR(113)) AS NUMERIC) AND (3919=3919"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba AND 4190=CAST((CHR(113)||CHR(107)||CHR(98)||CHR(106)||CHR(113))||(SELECT (CASE WHEN (4190=4190) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(122)||CHR(120)||CHR(122)||CHR(113)) AS NUMERIC)"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba AND 4190=CAST((CHR(113)||CHR(107)||CHR(98)||CHR(106)||CHR(113))||(SELECT (CASE WHEN (4190=4190) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(122)||CHR(120)||CHR(122)||CHR(113)) AS NUMERIC)-- GyRW"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba') AND 9896 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(98)+CHAR(106)+CHAR(113)+(SELECT (CASE WHEN (9896=9896) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(122)+CHAR(120)+CHAR(122)+CHAR(113))) AND ('zBwt'='zBwt"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba' AND 9896 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(98)+CHAR(106)+CHAR(113)+(SELECT (CASE WHEN (9896=9896) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(122)+CHAR(120)+CHAR(122)+CHAR(113))) AND 'qrWI'='qrWI"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba) AND 9896 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(98)+CHAR(106)+CHAR(113)+(SELECT (CASE WHEN (9896=9896) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(122)+CHAR(120)+CHAR(122)+CHAR(113))) AND (7898=7898"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba AND 9896 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(98)+CHAR(106)+CHAR(113)+(SELECT (CASE WHEN (9896=9896) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(122)+CHAR(120)+CHAR(122)+CHAR(113)))"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba AND 9896 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(98)+CHAR(106)+CHAR(113)+(SELECT (CASE WHEN (9896=9896) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(122)+CHAR(120)+CHAR(122)+CHAR(113)))-- jasa"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba') AND 3330=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(98)||CHR(106)||CHR(113)||(SELECT (CASE WHEN (3330=3330) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(122)||CHR(120)||CHR(122)||CHR(113)||CHR(62))) FROM DUAL) AND ('ovBv'='ovBv"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba' AND 3330=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(98)||CHR(106)||CHR(113)||(SELECT (CASE WHEN (3330=3330) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(122)||CHR(120)||CHR(122)||CHR(113)||CHR(62))) FROM DUAL) AND 'bCpL'='bCpL"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba) AND 3330=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(98)||CHR(106)||CHR(113)||(SELECT (CASE WHEN (3330=3330) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(122)||CHR(120)||CHR(122)||CHR(113)||CHR(62))) FROM DUAL) AND (9226=9226"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba AND 3330=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(98)||CHR(106)||CHR(113)||(SELECT (CASE WHEN (3330=3330) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(122)||CHR(120)||CHR(122)||CHR(113)||CHR(62))) FROM DUAL)"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba AND 3330=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(98)||CHR(106)||CHR(113)||(SELECT (CASE WHEN (3330=3330) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(122)||CHR(120)||CHR(122)||CHR(113)||CHR(62))) FROM DUAL)-- XxPU"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"(SELECT CONCAT(CONCAT('qkbjq',(CASE WHEN (4147=4147) THEN '1' ELSE '0' END)),'qzxzq'))"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba');SELECT PG_SLEEP(5)--"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba';SELECT PG_SLEEP(5)--"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba);SELECT PG_SLEEP(5)--"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba;SELECT PG_SLEEP(5)--"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba');WAITFOR DELAY '0:0:5'--"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba';WAITFOR DELAY '0:0:5'--"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba);WAITFOR DELAY '0:0:5'--"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba;WAITFOR DELAY '0:0:5'--"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba');SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(109)||CHR(103)||CHR(74)||CHR(88),5) FROM DUAL--"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(109)||CHR(103)||CHR(74)||CHR(88),5) FROM DUAL--"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba);SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(109)||CHR(103)||CHR(74)||CHR(88),5) FROM DUAL--"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba;SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(109)||CHR(103)||CHR(74)||CHR(88),5) FROM DUAL--"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba') AND (SELECT 4344 FROM (SELECT(SLEEP(5)))eVru) AND ('VgeW'='VgeW"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba' AND (SELECT 4344 FROM (SELECT(SLEEP(5)))eVru) AND 'TQBw'='TQBw"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba) AND (SELECT 4344 FROM (SELECT(SLEEP(5)))eVru) AND (5525=5525"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba AND (SELECT 4344 FROM (SELECT(SLEEP(5)))eVru)"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba AND (SELECT 4344 FROM (SELECT(SLEEP(5)))eVru)-- LydI"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba') AND 8290=(SELECT 8290 FROM PG_SLEEP(5)) AND ('BbGj'='BbGj"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba' AND 8290=(SELECT 8290 FROM PG_SLEEP(5)) AND 'ZbAk'='ZbAk"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba) AND 8290=(SELECT 8290 FROM PG_SLEEP(5)) AND (5259=5259"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba AND 8290=(SELECT 8290 FROM PG_SLEEP(5))"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba AND 8290=(SELECT 8290 FROM PG_SLEEP(5))-- gDtT"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba') WAITFOR DELAY '0:0:5' AND ('BTfH'='BTfH"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba' WAITFOR DELAY '0:0:5' AND 'MbfT'='MbfT"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba) WAITFOR DELAY '0:0:5' AND (5282=5282"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba WAITFOR DELAY '0:0:5'"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba WAITFOR DELAY '0:0:5'-- aTlW"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba') AND 1121=DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(112)||CHR(116)||CHR(119),5) AND ('wXbb'='wXbb"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba' AND 1121=DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(112)||CHR(116)||CHR(119),5) AND 'zAkz'='zAkz"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba) AND 1121=DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(112)||CHR(116)||CHR(119),5) AND (2473=2473"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba AND 1121=DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(112)||CHR(116)||CHR(119),5)"}
+[2025-08-16 20:28:46] WARNING: Email inválido proporcionado {"email":"prueba AND 1121=DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(112)||CHR(116)||CHR(119),5)-- rFyB"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba') ORDER BY 1-- tDfS"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba') ORDER BY 9195-- Gsbg"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba') UNION ALL SELECT NULL-- Urki"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba') UNION ALL SELECT NULL,NULL-- adHM"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba') UNION ALL SELECT NULL,NULL,NULL-- dQBX"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba') UNION ALL SELECT NULL,NULL,NULL,NULL-- gKNT"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- CrZB"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- UXJH"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- MVbI"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- cwll"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- TaXO"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- zDvZ"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba' ORDER BY 1-- QJrM"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba' ORDER BY 1885-- DZUr"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba' UNION ALL SELECT NULL-- Tnwt"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba' UNION ALL SELECT NULL,NULL-- sczl"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba' UNION ALL SELECT NULL,NULL,NULL-- JHBa"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba' UNION ALL SELECT NULL,NULL,NULL,NULL-- sxYC"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- LMKI"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- fRpj"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- IZfn"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- QhuM"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- DPIp"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- Bvac"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba) ORDER BY 1-- qzQt"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba) ORDER BY 4721-- rTQj"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba) UNION ALL SELECT NULL-- WtdV"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba) UNION ALL SELECT NULL,NULL-- vwNc"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba) UNION ALL SELECT NULL,NULL,NULL-- UQGs"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba) UNION ALL SELECT NULL,NULL,NULL,NULL-- OXNA"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- OLac"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- eqkJ"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- bShF"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- KjxA"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- uNxV"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- jEsK"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba ORDER BY 1-- GdGO"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba ORDER BY 6083-- NcTm"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba UNION ALL SELECT NULL-- eGtB"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba UNION ALL SELECT NULL,NULL-- yDyr"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba UNION ALL SELECT NULL,NULL,NULL-- fljB"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba UNION ALL SELECT NULL,NULL,NULL,NULL-- Ngop"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- PjBR"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- mAUn"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- WZBd"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- CEna"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- kOQr"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- axXA"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba ORDER BY 1-- JWex"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba ORDER BY 2232-- NWso"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba UNION ALL SELECT NULL-- Jipf"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba UNION ALL SELECT NULL,NULL-- JfyZ"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba UNION ALL SELECT NULL,NULL,NULL-- FqIk"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba UNION ALL SELECT NULL,NULL,NULL,NULL-- asOJ"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- IyFM"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- JoKA"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- jQuD"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JSsD"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- Sowu"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- FYjg"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:01] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:29:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:34:02] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-16 20:34:02] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-16 20:35:48] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba',\".)(,,()"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba'RmuDnz<'\">eHOoOU"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba') AND 4757=6119 AND ('WcFL'='WcFL"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba' AND 7858=2119 AND 'YTFC'='YTFC"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba) AND 5566=9299 AND (5725=5725"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba AND 4798=7859"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba AND 4885=6597-- qjZH"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"(SELECT (CASE WHEN (9461=4681) THEN 'prueba' ELSE (SELECT 4681 UNION SELECT 4886) END))"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba') AND EXTRACTVALUE(8054,CONCAT(0x5c,0x716b6a7171,(SELECT (ELT(8054=8054,1))),0x71766a7171)) AND ('MDqt'='MDqt"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba' AND EXTRACTVALUE(8054,CONCAT(0x5c,0x716b6a7171,(SELECT (ELT(8054=8054,1))),0x71766a7171)) AND 'DsxE'='DsxE"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba) AND EXTRACTVALUE(8054,CONCAT(0x5c,0x716b6a7171,(SELECT (ELT(8054=8054,1))),0x71766a7171)) AND (3832=3832"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba AND EXTRACTVALUE(8054,CONCAT(0x5c,0x716b6a7171,(SELECT (ELT(8054=8054,1))),0x71766a7171))"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba AND EXTRACTVALUE(8054,CONCAT(0x5c,0x716b6a7171,(SELECT (ELT(8054=8054,1))),0x71766a7171))-- Vsii"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba') AND 9715=CAST((CHR(113)||CHR(107)||CHR(106)||CHR(113)||CHR(113))||(SELECT (CASE WHEN (9715=9715) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(118)||CHR(106)||CHR(113)||CHR(113)) AS NUMERIC) AND ('Chnn'='Chnn"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba' AND 9715=CAST((CHR(113)||CHR(107)||CHR(106)||CHR(113)||CHR(113))||(SELECT (CASE WHEN (9715=9715) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(118)||CHR(106)||CHR(113)||CHR(113)) AS NUMERIC) AND 'tSzO'='tSzO"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba) AND 9715=CAST((CHR(113)||CHR(107)||CHR(106)||CHR(113)||CHR(113))||(SELECT (CASE WHEN (9715=9715) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(118)||CHR(106)||CHR(113)||CHR(113)) AS NUMERIC) AND (6349=6349"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba AND 9715=CAST((CHR(113)||CHR(107)||CHR(106)||CHR(113)||CHR(113))||(SELECT (CASE WHEN (9715=9715) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(118)||CHR(106)||CHR(113)||CHR(113)) AS NUMERIC)"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba AND 9715=CAST((CHR(113)||CHR(107)||CHR(106)||CHR(113)||CHR(113))||(SELECT (CASE WHEN (9715=9715) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(118)||CHR(106)||CHR(113)||CHR(113)) AS NUMERIC)-- RuJH"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba') AND 6438 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(106)+CHAR(113)+CHAR(113)+(SELECT (CASE WHEN (6438=6438) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(118)+CHAR(106)+CHAR(113)+CHAR(113))) AND ('HLsv'='HLsv"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba' AND 6438 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(106)+CHAR(113)+CHAR(113)+(SELECT (CASE WHEN (6438=6438) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(118)+CHAR(106)+CHAR(113)+CHAR(113))) AND 'ABlF'='ABlF"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba) AND 6438 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(106)+CHAR(113)+CHAR(113)+(SELECT (CASE WHEN (6438=6438) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(118)+CHAR(106)+CHAR(113)+CHAR(113))) AND (5683=5683"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba AND 6438 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(106)+CHAR(113)+CHAR(113)+(SELECT (CASE WHEN (6438=6438) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(118)+CHAR(106)+CHAR(113)+CHAR(113)))"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba AND 6438 IN (SELECT (CHAR(113)+CHAR(107)+CHAR(106)+CHAR(113)+CHAR(113)+(SELECT (CASE WHEN (6438=6438) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(118)+CHAR(106)+CHAR(113)+CHAR(113)))-- oqGW"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba') AND 2082=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(106)||CHR(113)||CHR(113)||(SELECT (CASE WHEN (2082=2082) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(118)||CHR(106)||CHR(113)||CHR(113)||CHR(62))) FROM DUAL) AND ('bPsl'='bPsl"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba' AND 2082=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(106)||CHR(113)||CHR(113)||(SELECT (CASE WHEN (2082=2082) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(118)||CHR(106)||CHR(113)||CHR(113)||CHR(62))) FROM DUAL) AND 'SQwX'='SQwX"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba) AND 2082=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(106)||CHR(113)||CHR(113)||(SELECT (CASE WHEN (2082=2082) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(118)||CHR(106)||CHR(113)||CHR(113)||CHR(62))) FROM DUAL) AND (6828=6828"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba AND 2082=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(106)||CHR(113)||CHR(113)||(SELECT (CASE WHEN (2082=2082) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(118)||CHR(106)||CHR(113)||CHR(113)||CHR(62))) FROM DUAL)"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba AND 2082=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(107)||CHR(106)||CHR(113)||CHR(113)||(SELECT (CASE WHEN (2082=2082) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(118)||CHR(106)||CHR(113)||CHR(113)||CHR(62))) FROM DUAL)-- GfYT"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"(SELECT CONCAT(CONCAT('qkjqq',(CASE WHEN (6182=6182) THEN '1' ELSE '0' END)),'qvjqq'))"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba');SELECT PG_SLEEP(5)--"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba';SELECT PG_SLEEP(5)--"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba);SELECT PG_SLEEP(5)--"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba;SELECT PG_SLEEP(5)--"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba');WAITFOR DELAY '0:0:5'--"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba';WAITFOR DELAY '0:0:5'--"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba);WAITFOR DELAY '0:0:5'--"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba;WAITFOR DELAY '0:0:5'--"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba');SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(85)||CHR(118)||CHR(83)||CHR(101),5) FROM DUAL--"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(85)||CHR(118)||CHR(83)||CHR(101),5) FROM DUAL--"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba);SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(85)||CHR(118)||CHR(83)||CHR(101),5) FROM DUAL--"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba;SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(85)||CHR(118)||CHR(83)||CHR(101),5) FROM DUAL--"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba') AND (SELECT 2205 FROM (SELECT(SLEEP(5)))oRdC) AND ('Novx'='Novx"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba' AND (SELECT 2205 FROM (SELECT(SLEEP(5)))oRdC) AND 'vfrR'='vfrR"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba) AND (SELECT 2205 FROM (SELECT(SLEEP(5)))oRdC) AND (2367=2367"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba AND (SELECT 2205 FROM (SELECT(SLEEP(5)))oRdC)"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba AND (SELECT 2205 FROM (SELECT(SLEEP(5)))oRdC)-- ZRFr"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba') AND 4747=(SELECT 4747 FROM PG_SLEEP(5)) AND ('Apiw'='Apiw"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba' AND 4747=(SELECT 4747 FROM PG_SLEEP(5)) AND 'HiGA'='HiGA"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba) AND 4747=(SELECT 4747 FROM PG_SLEEP(5)) AND (9069=9069"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba AND 4747=(SELECT 4747 FROM PG_SLEEP(5))"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba AND 4747=(SELECT 4747 FROM PG_SLEEP(5))-- RnFH"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba') WAITFOR DELAY '0:0:5' AND ('usfh'='usfh"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba' WAITFOR DELAY '0:0:5' AND 'CLRM'='CLRM"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba) WAITFOR DELAY '0:0:5' AND (2389=2389"}
+[2025-08-16 20:36:02] WARNING: Email inválido proporcionado {"email":"prueba WAITFOR DELAY '0:0:5'"}
+[2025-08-16 20:36:03] WARNING: Email inválido proporcionado {"email":"prueba WAITFOR DELAY '0:0:5'-- MmiW"}
+[2025-08-16 20:36:03] WARNING: Email inválido proporcionado {"email":"prueba') AND 3294=DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(68)||CHR(118)||CHR(105),5) AND ('TcAE'='TcAE"}
+[2025-08-16 20:36:03] WARNING: Email inválido proporcionado {"email":"prueba' AND 3294=DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(68)||CHR(118)||CHR(105),5) AND 'mrUW'='mrUW"}
+[2025-08-16 20:36:03] WARNING: Email inválido proporcionado {"email":"prueba) AND 3294=DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(68)||CHR(118)||CHR(105),5) AND (6966=6966"}
+[2025-08-16 20:36:03] WARNING: Email inválido proporcionado {"email":"prueba AND 3294=DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(68)||CHR(118)||CHR(105),5)"}
+[2025-08-16 20:36:03] WARNING: Email inválido proporcionado {"email":"prueba AND 3294=DBMS_PIPE.RECEIVE_MESSAGE(CHR(84)||CHR(68)||CHR(118)||CHR(105),5)-- VptA"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba') ORDER BY 1-- FbUU"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba') ORDER BY 8237-- yxBg"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba' ORDER BY 1-- scfh"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba' ORDER BY 4592-- abMv"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba) ORDER BY 1-- egpF"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba) ORDER BY 4759-- TcHm"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba ORDER BY 1-- MvmE"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba ORDER BY 9938-- xZHx"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba ORDER BY 1-- gQKK"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba ORDER BY 7335-- QtKK"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}
+[2025-08-16 20:36:10] WARNING: Email inválido proporcionado {"email":"prueba"}

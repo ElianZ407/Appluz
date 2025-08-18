@@ -1,0 +1,400 @@
+[2025-08-15 11:05:11] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 11:05:11] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 11:05:11] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', '123456789')\n#1 {main}"}
+[2025-08-15 11:05:11] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 11:05:23] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 11:05:23] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 11:05:23] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', '123456789')\n#1 {main}"}
+[2025-08-15 11:05:23] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 11:05:29] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 11:05:29] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 11:05:29] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', '123456789')\n#1 {main}"}
+[2025-08-15 11:05:29] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 11:05:33] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 11:05:33] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 11:05:33] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', '2011')\n#1 {main}"}
+[2025-08-15 11:05:33] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 11:07:48] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 11:07:48] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 11:07:48] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', '123456789')\n#1 {main}"}
+[2025-08-15 11:07:48] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 11:09:48] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 11:09:48] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 11:09:48] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', '123456789')\n#1 {main}"}
+[2025-08-15 11:09:48] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 11:09:52] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 11:09:53] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 11:09:53] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', '123456789')\n#1 {main}"}
+[2025-08-15 11:09:53] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 11:12:49] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 11:12:49] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 11:12:49] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', '123456789')\n#1 {main}"}
+[2025-08-15 11:12:49] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 11:14:00] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 11:17:45] INFO: Intento de login iniciado {"email":"usuario@example.com"}
+[2025-08-15 11:17:45] WARNING: Intento de login con email no registrado {"email":"usuario@example.com"}
+[2025-08-15 11:17:45] ERROR: Error en proceso de login {"email":"usuario@example.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('usuario@example...', 'mi_contrase\\xC3\\xB1a')\n#1 {main}"}
+[2025-08-15 11:18:01] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 11:18:01] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 11:18:01] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', 'mi_contrase\\xC3\\xB1a')\n#1 {main}"}
+[2025-08-15 11:18:01] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 11:18:02] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 11:18:02] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', 'mi_contrase\\xC3\\xB1a')\n#1 {main}"}
+[2025-08-15 11:18:12] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 11:18:12] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 11:18:12] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', '123456789')\n#1 {main}"}
+[2025-08-15 11:18:12] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 11:18:12] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 11:18:12] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', '123456789')\n#1 {main}"}
+[2025-08-15 11:18:12] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 11:18:12] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 11:18:12] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', '123456789')\n#1 {main}"}
+[2025-08-15 11:18:13] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 11:18:13] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 11:18:13] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', '123456789')\n#1 {main}"}
+[2025-08-15 11:18:40] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 11:18:40] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 11:18:40] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', '123456789')\n#1 {main}"}
+[2025-08-15 11:18:41] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 11:18:41] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 11:18:41] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', '123456789')\n#1 {main}"}
+[2025-08-15 11:18:41] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 11:18:42] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 11:18:42] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', '123456789')\n#1 {main}"}
+[2025-08-15 11:18:54] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 11:18:54] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 11:18:54] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', 'e3eq')\n#1 {main}"}
+[2025-08-15 11:18:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 11:19:04] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 11:19:04] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-15 11:19:12] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 11:19:12] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"127.0.0.1"}
+[2025-08-15 17:37:36] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 17:37:36] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-15 17:40:36] INFO: Intento de login iniciado {"email":"zaproxy@example.com"}
+[2025-08-15 17:40:36] WARNING: Intento de login con email no registrado {"email":"zaproxy@example.com"}
+[2025-08-15 17:40:36] ERROR: Error en proceso de login {"email":"zaproxy@example.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('zaproxy@example...', 'ZAP')\n#1 {main}"}
+[2025-08-15 17:40:36] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:41] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:41] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:41] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:41] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:41] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:41] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:41] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:41] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:41] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:41] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:41] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:42] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:42] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:42] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:42] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:42] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:42] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:42] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:42] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:42] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:43] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:43] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:43] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:43] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:43] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:43] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:43] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:43] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:44] WARNING: Email inválido proporcionado {"email":""}
+[2025-08-15 17:40:44] WARNING: Email inválido proporcionado {"email":""}
+[2025-08-15 17:40:44] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:44] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:44] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:44] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:44] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:44] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:44] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:44] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:44] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:45] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:45] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:45] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:45] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:45] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:45] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:45] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:45] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:45] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:45] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:46] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:46] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:46] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:46] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:46] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:46] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:46] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:46] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:46] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:46] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:46] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:46] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:46] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:46] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:46] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:46] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:46] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:46] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:46] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:47] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:47] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:47] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:47] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:47] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:47] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:47] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:47] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:47] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:47] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:47] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:47] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:48] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:48] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:48] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:48] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:48] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:48] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:48] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:48] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:48] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:48] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:48] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:48] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:48] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:48] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:48] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:48] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:48] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:48] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:49] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:49] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:49] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:49] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:49] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:49] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:49] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:49] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:49] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:49] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:50] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:50] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:50] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:50] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:50] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:53] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:53] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:53] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:53] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:53] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:53] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:53] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:53] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:53] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:53] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:53] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:53] WARNING: Email inválido proporcionado {"email":""}
+[2025-08-15 17:40:53] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:53] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:53] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:53] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:53] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:53] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:53] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:53] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:54] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:55] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:55] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:55] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:55] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:55] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:55] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:56] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:57] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:57] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:57] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:57] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:57] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:57] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:57] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:57] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:57] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:57] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:57] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:57] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:57] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:58] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:58] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:58] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:58] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:58] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:58] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:58] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:58] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:58] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:58] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:58] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:58] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:58] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:58] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:58] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:58] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:58] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:58] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:58] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:40:58] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 17:45:32] WARNING: Intento de acceso al login con método no permitido {"method":"Post"}
+[2025-08-15 17:45:32] WARNING: Intento de acceso al login con método no permitido {"method":"Post"}
+[2025-08-15 17:45:32] WARNING: Intento de acceso al login con método no permitido {"method":"Post"}
+[2025-08-15 17:45:32] WARNING: Intento de acceso al login con método no permitido {"method":"Post"}
+[2025-08-15 17:45:32] WARNING: Intento de acceso al login con método no permitido {"method":"Post"}
+[2025-08-15 17:50:25] WARNING: Email inválido proporcionado {"email":""}
+[2025-08-15 17:50:25] WARNING: Email inválido proporcionado {"email":""}
+[2025-08-15 17:50:25] WARNING: Email inválido proporcionado {"email":""}
+[2025-08-15 17:50:25] WARNING: Email inválido proporcionado {"email":""}
+[2025-08-15 17:50:25] WARNING: Email inválido proporcionado {"email":""}
+[2025-08-15 17:50:25] WARNING: Email inválido proporcionado {"email":""}
+[2025-08-15 17:57:37] WARNING: Email inválido proporcionado {"email":""}
+[2025-08-15 17:57:37] WARNING: Email inválido proporcionado {"email":""}
+[2025-08-15 17:57:37] WARNING: Email inválido proporcionado {"email":""}
+[2025-08-15 17:57:37] WARNING: Email inválido proporcionado {"email":""}
+[2025-08-15 17:57:37] WARNING: Email inválido proporcionado {"email":""}
+[2025-08-15 18:02:40] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 18:05:45] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 18:05:45] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-15 18:07:52] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 18:07:52] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-15 18:08:48] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 18:08:48] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"::1"}
+[2025-08-15 18:26:55] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 18:26:55] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"127.0.0.1"}
+[2025-08-15 18:54:46] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 18:54:46] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 18:54:46] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', 'contrase\\xC3\\xB1a')\n#1 {main}"}
+[2025-08-15 18:54:46] WARNING: Email inválido proporcionado {"email":"123456"}
+[2025-08-15 18:54:46] WARNING: Email inválido proporcionado {"email":"admin"}
+[2025-08-15 18:54:47] WARNING: Email inválido proporcionado {"email":"root"}
+[2025-08-15 18:54:47] WARNING: Email inválido proporcionado {"email":"contraseña"}
+[2025-08-15 18:54:47] WARNING: Email inválido proporcionado {"email":"Appluz2025"}
+[2025-08-15 18:54:48] WARNING: Email inválido proporcionado {"email":"12345678"}
+[2025-08-15 18:54:48] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 18:54:48] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 18:54:48] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', '123456')\n#1 {main}"}
+[2025-08-15 18:54:49] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 18:54:49] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 18:54:49] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', 'admin')\n#1 {main}"}
+[2025-08-15 18:54:49] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 18:54:49] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 18:54:49] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', 'root')\n#1 {main}"}
+[2025-08-15 18:54:50] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 18:54:50] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 18:54:50] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', 'contrase\\xC3\\xB1a')\n#1 {main}"}
+[2025-08-15 18:54:51] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 18:54:51] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 18:54:51] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', 'Appluz2025')\n#1 {main}"}
+[2025-08-15 18:54:51] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 18:54:51] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"127.0.0.1"}
+[2025-08-15 19:12:01] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 19:12:01] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 19:12:01] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', 'contrase\\xC3\\xB1a')\n#1 {main}"}
+[2025-08-15 19:12:01] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 19:12:01] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 19:12:01] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', '123456')\n#1 {main}"}
+[2025-08-15 19:12:02] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 19:12:02] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 19:12:02] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', 'admin')\n#1 {main}"}
+[2025-08-15 19:12:02] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 19:12:02] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 19:12:02] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', 'root')\n#1 {main}"}
+[2025-08-15 19:12:02] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 19:12:03] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 19:12:03] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', 'contrase\\xC3\\xB1a')\n#1 {main}"}
+[2025-08-15 19:12:03] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 19:12:03] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 19:12:03] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', 'Appluz2025')\n#1 {main}"}
+[2025-08-15 19:12:03] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 19:12:03] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"127.0.0.1"}
+[2025-08-15 19:40:27] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 19:40:27] WARNING: Intento de login con contraseña incorrecta {"email":"aburto@gmail.com","user_id":8}
+[2025-08-15 19:40:27] ERROR: Error en proceso de login {"email":"aburto@gmail.com","error":"Usuario o contraseña incorrectos","trace":"#0 C:\\xamp\\htdocs\\Appluz\\App\\src\\public\\controllers\\inicio.php(124): loginUser('aburto@gmail.co...', 'contrase\\xC3\\xB1a')\n#1 {main}"}
+[2025-08-15 19:40:29] WARNING: Intento de acceso al login con método no permitido {"method":"GET"}
+[2025-08-15 19:40:39] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 19:40:39] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"127.0.0.1"}
+[2025-08-15 22:43:32] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 22:43:32] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"127.0.0.1"}
+[2025-08-15 15:01:28] INFO: Inicio de registro de dispositivo {"usuario_id":8,"nombre":"Foco de luz ","tipo":3}
+[2025-08-15 15:01:28] INFO: Dispositivo registrado {"dispositivo_id":29}
+[2025-08-15 23:22:20] WARNING: Email inválido proporcionado {"email":"' OR '1'='1"}
+[2025-08-15 23:22:41] WARNING: Email inválido proporcionado {"email":"' OR '1'='1"}
+[2025-08-15 23:23:02] WARNING: Email inválido proporcionado {"email":"' OR '1'='1"}
+[2025-08-15 23:24:24] WARNING: Email inválido proporcionado {"email":"aburto@gmail.com' OR '1'='1' "}
+[2025-08-15 23:24:34] WARNING: Email inválido proporcionado {"email":"' OR '1'='1"}
+[2025-08-15 23:24:48] WARNING: Email inválido proporcionado {"email":"' OR '1'='1"}
+[2025-08-15 23:30:41] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 23:30:41] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"127.0.0.1"}
+[2025-08-15 23:30:42] INFO: Intento de login iniciado {"email":"aburto@gmail.com"}
+[2025-08-15 23:30:42] INFO: Login exitoso {"user_id":8,"email":"aburto@gmail.com","ip":"127.0.0.1"}
+[2025-08-15 23:31:02] WARNING: Email inválido proporcionado {"email":"' OR '1'='1"}
